@@ -12,3 +12,10 @@ h1{
     color:seagreen;
     background-color:crimson;
 }
+p{
+    color:seagreen;
+    margin:50px 100px;
+    font-size:100px;
+    font-weight:900;
+
+}
